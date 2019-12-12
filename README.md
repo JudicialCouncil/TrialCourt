@@ -28,7 +28,7 @@ Tag your issue with the appropriate labels:
 ### Location and Maps
 [![Alt text](https://img.youtube.com/vi/6rzYuww2f1E/0.jpg)](https://www.youtube.com/watch?v=6rzYuww2f1E)
 
-### Easy Content Authoring: Publish a Book!
+### Easy Content Authoring: Publish a Book!
 [![Alt text](https://img.youtube.com/vi/iB5YLezUJEg/0.jpg)](https://www.youtube.com/watch?v=iB5YLezUJEg)
 
 ### Accessibility
